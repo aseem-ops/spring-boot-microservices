@@ -1,0 +1,1 @@
+insert into employee (first_name,last_name,email,department_code) values ('Aseem','Anand','aseemanand1@gmail.com','IT101');
