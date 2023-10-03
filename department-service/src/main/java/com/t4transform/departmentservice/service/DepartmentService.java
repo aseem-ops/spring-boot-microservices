@@ -29,4 +29,5 @@ public class DepartmentService {
     public Department getDepartmentByDepartmentCode(String departmentCode){
         return departmentRepository.findByDepartmentCode(departmentCode);
     }
+
 }
